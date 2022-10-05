@@ -8,6 +8,6 @@ Vyzkoušej [HRU](https://ballaylukas.github.io/Game-Pig/)!
 
 ### Funkce hry
 * kontrola hádaného čísla v rozsahu 1-20
-* po každém tipu snížení skóre a aktualizace nápovědy
+* po každém tipu (max 20 tipů) snížení skóre a aktualizace nápovědy
 * uložení nejvyššího skóre
 * restartování hry
