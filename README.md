@@ -4,7 +4,7 @@ Vypracováno v rámci kurzu Udemy [JavaScript 2022](https://www.udemy.com/share/
 
 Komplexnější hra "Pig game" pro dva hráče vybudovaná na základech DOM manipulace a eventů.
 
-Vyzkoušej [HRU](https://ballaylukas.github.io/Game-Pig/)!
+Vyzkoušejte [HRU](https://ballaylukas.github.io/Game-Pig/)!
 
 ### Funkce hry
 * náhodně generovaný hod kostkou 1-6 (5-6 = aktualizace skóre, 1 = vynulování skóre, pokračuje druhý hráč)
