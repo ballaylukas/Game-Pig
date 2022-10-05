@@ -4,7 +4,7 @@ Vypracováno v rámci kurzu Udemy [JavaScript 2022](https://www.udemy.com/share/
 
 Komplexnější hra "Pig game" pro dva hráče vybudovaná na základech DOM manipulace a eventů.
 
-Vyzkoušej [HRU](https://ballaylukas.github.io/Game-Guess-My-Number/)!
+Vyzkoušej [HRU](https://ballaylukas.github.io/Game-Pig/)!
 
 ### Funkce hry
 * kontrola hádaného čísla v rozsahu 1-20
