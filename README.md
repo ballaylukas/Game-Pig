@@ -7,7 +7,8 @@ Komplexnější hra "Pig game" pro dva hráče vybudovaná na základech DOM man
 Vyzkoušej [HRU](https://ballaylukas.github.io/Game-Pig/)!
 
 ### Funkce hry
-* kontrola hádaného čísla v rozsahu 1-20
-* po každém tipu (max 20 tipů) snížení skóre a aktualizace nápovědy
-* uložení nejvyššího skóre
+* náhodně generovaný hod kostkou 1-6 (5-6 = aktualizace skóre, 1 = vynulování skóre, pokračuje druhý hráč)
+* přepínání mezi aktivním hráčem
+* možnost uložit aktuální skóre do celkového skóre
+* vyhrává hráč s dosažením celkového skóre 100
 * restartování hry
