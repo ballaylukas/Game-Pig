@@ -8,7 +8,7 @@ Vyzkoušej [HRU](https://ballaylukas.github.io/Game-Pig/)!
 
 ### Funkce hry
 * náhodně generovaný hod kostkou 1-6 (5-6 = aktualizace skóre, 1 = vynulování skóre, pokračuje druhý hráč)
-* přepínání mezi aktivním hráčem
+* automatické přepínání mezi aktivním hráčem
 * možnost uložit aktuální skóre do celkového skóre
 * vyhrává hráč s dosažením celkového skóre 100
 * restartování hry
